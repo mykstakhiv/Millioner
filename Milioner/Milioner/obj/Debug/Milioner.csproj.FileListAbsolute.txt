@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\bin\Debug\Milioner.exe.config
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\bin\Debug\Milioner.exe
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\bin\Debug\Milioner.pdb
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\obj\Debug\Milioner.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\obj\Debug\Milioner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\obj\Debug\Milioner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\obj\Debug\Milioner.exe
+C:\Users\Admin\Desktop\CSLight\Milioner\Milioner\obj\Debug\Milioner.pdb
